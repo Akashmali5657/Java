@@ -5,6 +5,7 @@ package Encapsulation;
 2. Encapsulation means combining the data of our application and its manipulation in one place. It allows the state of
 an object to be accessed and modified through behavior. It reduces the coupling of modules and increases the cohesion
 inside them.
+3.here we bind variable and method into object
  */
 public class Student {
     private String name;
